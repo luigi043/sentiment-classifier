@@ -1,0 +1,4 @@
+python-dotenv>=1.0
+# add your LLM SDK, e.g.:
+# openai>=1.0
+# google-generativeai>=0.7
